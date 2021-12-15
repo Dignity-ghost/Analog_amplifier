@@ -1,6 +1,6 @@
 import math
 
-Iref = 5 * 1e-6
+Iref = 12 * 1e-6
 K_n = 181 * 1e-6
 K_p = 48 * 1e-6
 Von = 0.3
